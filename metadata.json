@@ -1,0 +1,6 @@
+{
+  "name": "AI Finder - Discover & Compare AI Tools",
+  "description": "Discover, compare, and find free alternatives for 100+ verified AI tools across video, image, coding, writing, voice, research, and automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
